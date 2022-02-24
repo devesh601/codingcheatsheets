@@ -1,4 +1,5 @@
-# codingcheatsheets
+number of # increases or reduces the size
+# codingcheatsheets 
 ## codingcheatsheets
 ### codingcheatsheets
 ```python 
